@@ -18,17 +18,18 @@ To make the system hassle free and time efficient , we thought of a solution tha
 The code has been done for calculating and storing the bill per customer and it is accessible by the staff of the shop also .
 
 
-Inheritence :
+**Inheritence :**
+
 In this project , we have implemented the inheritance by inherting the features of the Billing System (SuperClass) using the Staff_emp and Customer class (Subclasses).
 
-Polymorphism :
+**Polymorphism :**
 
 Here ,we tried to implement this features by implementing the Operation (interface) in the Billing_System (Superclass) since it’s an abstract class and the two (subclasses) Staff_emp and Customer class are using the features of the interface in their own way.
 
-Abstraction :
+**Abstraction :**
 
 We have used this feature in our code by creating an array of object in the (subclasses) for each item without knowing the inside details of the item object. And we also have used some of the behaviours of the object without knowing the actual implementation of those.
 
-Encapsulation:
+**Encapsulation:**
 
 This feature has been implemented by the creation of the objects of the superclass and using their features.
